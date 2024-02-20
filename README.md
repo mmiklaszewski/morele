@@ -1,1 +1,1 @@
-# morele - zadanie rekturacyjne
+# morele - zadanie rekrutacyjne

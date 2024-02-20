@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div>
+        <p>
+            Select algorithm
+        </p>
+        <p>
+        <a href="{{ path('random_movies') }}">random movies</a>
+        </p>
+        <p>
+        <a href="{{ path('started_from_letter_and_even_chars_count') }}">started from "w" and even chars count</a>
+        </p>
+        <p>
+        <a href="{{ path('more_words') }}">with more words movies</a>
+        </p>
+    </div>
+{% endblock %}
