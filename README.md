@@ -1,1 +1,1 @@
-# morele
+# morele - zadanie rekturacyjne
